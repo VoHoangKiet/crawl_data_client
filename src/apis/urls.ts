@@ -1,9 +1,9 @@
 const urls = {
     production: {
-        dataURL: 'http://localhost:8000',
+        dataURL: 'https://crawlapi.vercel.app',
     },
     development: {
-        dataURL: 'http://localhost:8000',
+        dataURL: 'https://crawlapi.vercel.app',
     },
 };
 
